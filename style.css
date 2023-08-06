@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    height: 50px;
+}
+
+.container_1{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#q1,#q2,#q3,#q4,#q5,#q6,#q7,#q8,#q9,#q10,#q11{
+    margin: 15px;
+    padding: 10px 10px 10px 40px;
+    border: 2px solid gray;
+}
+
+.container_2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container_3{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container_4{
+    display: flex;
+    justify-content: space-evenly;
+}
